@@ -2,7 +2,7 @@
 
 Simple voltmeter for voltage monitoring via serial port
 
-<img src="https://user-images.githubusercontent.com/15663687/236766728-90bfa997-4758-4741-8b76-a40e455919f2.png" width="30%">
+<img src="https://user-images.githubusercontent.com/15663687/236766728-90bfa997-4758-4741-8b76-a40e455919f2.png" width="50%">
  
 | Arduino Nano  | OLED 128x32 I2C |
 | ------------- | ------------- |
